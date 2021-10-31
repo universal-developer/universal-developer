@@ -8,8 +8,8 @@
 #### Stats
 ![Universal Developer Stats](https://github-readme-stats.vercel.app/api?username=universal-developer&show_icons=true&theme=onedark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=github-readme-stats)](https://github.com/universal-developer/solutions.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=github-readme-stats)](https://github.com/universal-developer/universal-developer.git)
+[![Universal Developer Stats](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=solutions&theme=onedark)](https://github.com/universal-developer/solutions.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=universal-developer&theme=onedark)](https://github.com/universal-developer/universal-developer.git)
 
 <img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/wow.jpg">
 
