@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
+<img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
 
 # 👋🏻 Hi Everyone, I'm Universal Developer 
 
@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=github-readme-stats)](https://github.com/universal-developer/solutions.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=github-readme-stats)](https://github.com/universal-developer/universal-developer.git)
 
-<img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/wow.jpg" align="center">
+<img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/wow.jpg">
 
 ## Follow Me
 
