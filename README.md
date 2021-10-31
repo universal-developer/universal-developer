@@ -1,4 +1,4 @@
-<img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg" align="center">
+<img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
 
 # 👋🏻 Hi Everyone, I'm Universal Developer 
 
