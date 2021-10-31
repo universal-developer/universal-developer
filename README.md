@@ -1,4 +1,4 @@
-<img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
+<img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
 
 # 👋🏻 Hi Everyone, I'm Universal Developer 
 
@@ -18,7 +18,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/universal-developer)
 
-<img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/wow.jpg">
+<img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/wow.jpg">
 
 
 ## Follow Me
