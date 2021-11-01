@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/gif-header.gif" alt="Hi, I'm Universal Developer I'm a Python | Swift | JavaScript developer 🚀 ope you appreciate my GitHub profile ❤️">
-</p>
-
 <img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
 
 # 👋🏻 Hi Everyone, I'm Universal Developer 
