@@ -14,7 +14,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=universal-developer&theme=onedark)](https://github.com/universal-developer/universal-developer.git)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&bg_color=292C34&color=E4BF7A&line=DF6D74&point=8EB573)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=universal-developer&bg_color=292C34&color=E4BF7A&line=DF6D74&point=8EB573)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ![GitHub metrics](https://metrics.lecoq.io/universal-developer)
