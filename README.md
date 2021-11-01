@@ -24,6 +24,6 @@
 
 ## Follow Me
 
-[<img src="https://vercel.com/artush-co/universal-developer/"/>](https://open.spotify.com/user/call_me_artush)
+[<img src="https://vercel.com/artush-co/universal-developer/"/>](https://open.spotify.com/user/we5eoo03siieoviya8vzh2s1u)
 
 [![Instaram](https://img.shields.io/badge/-Instagram-292C34?style=for-the-badge&logo=Instagram)](https://www.instagram.com/call_me_artush/) [![VK](https://img.shields.io/badge/-VK-292C34?style=for-the-badge&logo=VK)](https://vk.com/call_me_artush) [![Discord](https://img.shields.io/badge/-Discord-292C34?style=for-the-badge&logo=Discord)](https://discordapp.com/users/903987809155682394/) [![Twitter](https://img.shields.io/badge/-Twitter-292C34?style=for-the-badge&logo=Twitter)](https://twitter.com/call_me_Artush) [![Facebook](https://img.shields.io/badge/-Facebook-292C34?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100037614470720)
