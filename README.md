@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Universal Developer I'm a Python | Swift | JavaScript developer 🚀 ope you appreciate my GitHub profile ❤️">
+</p>
+
 <img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
 
 # 👋🏻 Hi Everyone, I'm Universal Developer 
@@ -24,4 +28,4 @@
 
 ## Follow Me
 
-[![Instaram](https://img.shields.io/badge/-Instagram-292C34?style=for-the-badge&logo=Instagram)](https://www.instagram.com/call_me_artush/) [![VK](https://img.shields.io/badge/-VK-292C34?style=for-the-badge&logo=VK)](https://vk.com/call_me_artush) [![Discord](https://img.shields.io/badge/-Discord-292C34?style=for-the-badge&logo=Discord)](https://discordapp.com/users/903987809155682394/) [![Twitter](https://img.shields.io/badge/-Twitter-292C34?style=for-the-badge&logo=Twitter)](https://twitter.com/call_me_Artush) [![Facebook](https://img.shields.io/badge/-Facebook-292C34?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100037614470720)
+[![Instaram](https://img.shields.io/badge/-Instagram-292C34?style=for-the-badge&logo=Instagram)](https://www.instagram.com/call_me_artush/) [![VK](https://img.shields.io/badge/-VK-292C34?style=for-the-badge&logo=VK)](https://vk.com/call_me_artush) [![Discord](https://img.shields.io/badge/-Discord-292C34?style=for-the-badge&logo=Discord)](https://discordapp.com/users/903987809155682394/) [![Twitter](https://img.shields.io/badge/-Twitter-292C34?style=for-the-badge&logo=Twitter)](https://twitter.com/call_me_Artush) [![Facebook](https://img.shields.io/badge/-Facebook-292C34?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100037614470720) [![Spotify](https://img.shields.io/badge/-Spotify-292C34?style=for-the-badge&logo=Spotify)](https://www.facebook.com/profile.php?id=100037614470720)
