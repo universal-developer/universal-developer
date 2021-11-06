@@ -7,19 +7,17 @@
 
 #### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universal-developer&theme=onedark&layout=compact)](https://github.com/universal-developer/github-readme-stats)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=universal-developer&bg_color=292C34&color=E4BF7A&line=DF6D74&point=8EB573)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Universal Developer Stats](https://github-readme-stats.vercel.app/api?username=universal-developer&show_icons=true&theme=onedark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=universal-developer&theme=onedark" alt="universal-developer" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universal-developer&theme=onedark&layout=compact)](https://github.com/universal-developer/github-readme-stats)
+
 [![Universal Developer Stats](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=solutions&theme=onedark)](https://github.com/universal-developer/solutions.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=universal-developer&theme=onedark)](https://github.com/universal-developer/universal-developer.git)
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=universal-developer&bg_color=292C34&color=E4BF7A&line=DF6D74&point=8EB573)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/universal-developer)
