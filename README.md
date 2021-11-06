@@ -7,7 +7,7 @@
 
 #### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universal-developer&theme=omni&layout=compact)](https://github.com/universal-developer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universal-developer&theme=onedark&layout=compact)](https://github.com/universal-developer/github-readme-stats)
 
 
 ![Universal Developer Stats](https://github-readme-stats.vercel.app/api?username=universal-developer&show_icons=true&theme=onedark)
