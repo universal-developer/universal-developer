@@ -15,7 +15,7 @@
 
 [![Universal Developer Stats](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=solutions&theme=onedark)](https://github.com/universal-developer/solutions.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=universal-developer&theme=onedark)](https://github.com/universal-developer/universal-developer.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=nvim-configr&theme=onedark)](https://github.com/universal-developer/nvim-config.git)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=universal-developer&bg_color=292C34&color=E4BF7A&line=DF6D74&point=8EB573)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
