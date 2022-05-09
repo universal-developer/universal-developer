@@ -13,9 +13,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universal-developer&theme=onedark&layout=compact)](https://github.com/universal-developer/github-readme-stats)
 
-[![Universal Developer Stats](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=solutions&theme=onedark)](https://github.com/universal-developer/uc-discord-bot)
+[![Universal Developer Stats](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=Uc-Discord-Bots&theme=onedark)](https://github.com/universal-developer/uc-discord-bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=newest-nvim-config&theme=onedark)](https://github.com/universal-developer/UpTodo-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=UpToDo-App&theme=onedark)](https://github.com/universal-developer/UpTodo-app)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=universal-developer&bg_color=292C34&color=E4BF7A&line=DF6D74&point=8EB573)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
