@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=universal-developer&theme=onedark&layout=compact)](https://github.com/universal-developer/github-readme-stats)
 
-[![Universal Developer Stats](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=Uc-Discord-Bots&theme=onedark)](https://github.com/universal-developer/uc-discord-bot)
+[![Universal Developer Stats](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=uc-discord-bot&theme=onedark)](https://github.com/universal-developer/uc-discord-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=universal-developer&repo=UpToDo-App&theme=onedark)](https://github.com/universal-developer/UpTodo-app)
 
