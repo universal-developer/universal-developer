@@ -9,7 +9,7 @@
 
 📚 | I am engaged in programming when there is a desire, I will soon enter the lyceum in France as a programmer.
 
-💪🏻 | My dream is to work in MAANG.
+💪🏻 | My dream is to work in **MAANG**.
 
 👨🏻‍💻 | My stack is below
 
