@@ -2,6 +2,19 @@
 
 <img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/hello.jpg">
 
+<hr>
+<h2>About me</h2>
+
+😊 | I am a 16 year old self-taught programmer who wants to do front-end development of websites and applications.
+
+📚 | I am engaged in programming when there is a desire, I will soon enter the lyceum in France as a programmer.
+
+💪🏻 | My dream is to work in MAANG.
+
+👨🏻‍💻 | My stack is below
+
+<hr>
+
 ### My Stack
 ![Flutter](https://img.shields.io/badge/Flutter-292C34?style=for-the-badge&logo=Flutter&logoColor=47c5fb) ![Python](https://img.shields.io/badge/-Python-292C34?style=for-the-badge&logo=python&logoColor=85C1E9) ![JavaScript](https://img.shields.io/badge/-JavaScript-292C34?style=for-the-badge&logo=javascript&logoColor=gold) ![Swift](https://img.shields.io/badge/-Swift-292C34?style=for-the-badge&logo=swift&logoColor=orange)  ![SQL](https://img.shields.io/badge/-SQL-292C34?style=for-the-badge&logo=MYSQL) ![HTML](https://img.shields.io/badge/-HTML-292C34?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-292C34?style=for-the-badge&logo=CSS3&logoColor=264de4) ![Node](https://img.shields.io/badge/-Node-292C34?style=for-the-badge&logo=Node.js) ![FireBase](https://img.shields.io/badge/-FireBase-292C34?style=for-the-badge&logo=FireBase&logoColor) ![Heroku](https://img.shields.io/badge/-Heroku-292C34?style=for-the-badge&logo=Heroku&logoColor=6762a6) ![Photoshop](https://img.shields.io/badge/-PS-292C34?style=for-the-badge&logo=AdobePhotoshop&logoColor=40D0FB) ![Figma](https://img.shields.io/badge/-Figma-292C34?style=for-the-badge&logo=Figma&logoColor=90B56E) ![VSCODE](https://img.shields.io/badge/-VSCODE-292C34?style=for-the-badge&logo=VisualStudioCode&logoColor=0078d7) ![Sublime](https://img.shields.io/badge/-sUBLIME-292C34?style=for-the-badge&logo=SublimeText) ![Nvim](https://img.shields.io/badge/-Nvim-292C34?style=for-the-badge&logo=Neovim) ![Xcode](https://img.shields.io/badge/-Xcode-292C34?style=for-the-badge&logo=Xcode)
 
@@ -30,5 +43,5 @@
 
 ### Follow Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-292C34?style=for-the-badge&logo=Twitter)](https://twitter.com/call_me_Artush)
+[![Twitter](https://img.shields.io/badge/-Twitter-292C34?style=for-the-badge&logo=Twitter)](https://twitter.com/call_me_Artush) [![Instagram](https://img.shields.io/badge/-Instagram-292C34?style=for-the-badge&logo=Instagram)](https://www.instagram.com/call_me_artush/)
 
