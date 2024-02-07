@@ -5,7 +5,7 @@
 <hr>
 <h2>About me</h2>
 
-😊 | I am a 17 self-taught programmer who's specialty is front-end development
+👨🏻‍🎓 | I am a 17-year-old, self-taught programmer specializing in front-end development.
 
 📚 | I am engaged in programming when there is a desire
 
