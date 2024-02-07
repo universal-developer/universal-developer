@@ -5,11 +5,9 @@
 <hr>
 <h2>About me</h2>
 
-😊 | I am a 16 year old self-taught programmer who wants to do front-end development of websites and applications.
+😊 | I am a 17 self-taught programmer who's specialty is front-end development
 
-📚 | I am engaged in programming when there is a desire, I will soon enter the lyceum in France as a programmer.
-
-💪🏻 | My dream is to work in **MAANG**.
+📚 | I am engaged in programming when there is a desire
 
 👨🏻‍💻 | My stack is below
 
