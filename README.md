@@ -40,7 +40,3 @@
 ![GitHub metrics](https://metrics.lecoq.io/universal-developer)
 
 <img align="center" src="https://github.com/universal-developer/universal-developer/blob/not-main/assets/wow.jpg">
-
-### Follow Me
-
-[![Twitter](https://img.shields.io/badge/-Twitter-292C34?style=for-the-badge&logo=Twitter)](https://twitter.com/call_me_Artush) [![Instagram](https://img.shields.io/badge/-Instagram-292C34?style=for-the-badge&logo=Instagram)](https://www.instagram.com/call_me_artush/)
